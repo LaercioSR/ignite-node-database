@@ -17,7 +17,7 @@ Link com Detalhes: [Desafio 06 - Database Queries](https://www.notion.so/Desafio
   - [x] Find all users ordered by first name;
   - [x] Find user by full name;
 - [ ] Games;
-  - [ ] Find by title containing;
+  - [x] Find by title containing;
   - [ ] Count all games;
   - [ ] Find users by game id;
 
