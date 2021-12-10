@@ -18,7 +18,7 @@ Link com Detalhes: [Desafio 06 - Database Queries](https://www.notion.so/Desafio
   - [x] Find user by full name;
 - [ ] Games;
   - [x] Find by title containing;
-  - [ ] Count all games;
+  - [x] Count all games;
   - [ ] Find users by game id;
 
 ## Tecnologias e Bibliotecas
