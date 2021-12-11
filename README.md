@@ -1,7 +1,7 @@
 # Desafio 06 - Jornada Ignite (NodeJs) da Rockeseat
 
 <h4 align="center">
- 🚧  Desafio em Andamento  🚧
+ ✅  Desafio 04 Concluído  ✅
 </h4>
 
 ## Descrição do Projeto
@@ -16,10 +16,10 @@ Link com Detalhes: [Desafio 06 - Database Queries](https://www.notion.so/Desafio
   - [x] Find user with games by id;
   - [x] Find all users ordered by first name;
   - [x] Find user by full name;
-- [ ] Games;
+- [x] Games;
   - [x] Find by title containing;
   - [x] Count all games;
-  - [ ] Find users by game id;
+  - [x] Find users by game id;
 
 ## Tecnologias e Bibliotecas
 
